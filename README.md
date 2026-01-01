@@ -1,6 +1,6 @@
-# Hướng dẫn chạy Lab 1 đến Lab 6 (Scaffold-ETH 2)
+# Hướng dẫn chạy Challenge 1 đến Challenge 6 (Scaffold-ETH 2)
 
-Tài liệu này hướng dẫn cách vận hành các bài Lab phát triển ứng dụng phi
+Tài liệu này hướng dẫn cách vận hành các Challenge phát triển ứng dụng phi
 tập trung (DApp) trên môi trường máy tính cá nhân với Scaffold-ETH 2.
 
 ------------------------------------------------------------------------
@@ -23,13 +23,13 @@ Trước khi bắt đầu, bạn cần cài đặt các công cụ sau:
 
 ------------------------------------------------------------------------
 
-## 2. Quy trình chạy chung (Áp dụng cho Lab 1 đến Lab 6)
+## 2. Quy trình chạy chung (Áp dụng cho Challenge 1 đến Challenge 6)
 
-### Bước 1: Di chuyển vào thư mục bài Lab
+### Bước 1: Di chuyển vào Challenge
 
-Sử dụng lệnh `cd` để truy cập vào thư mục của Lab bạn muốn chạy.
+Sử dụng lệnh `cd` để truy cập vào thư mục của Challenge bạn muốn chạy.
 
-Ví dụ với **Lab 6**:
+Ví dụ với **Challenge 6**:
 
 ``` bash
 cd challenge-stablecoins
@@ -81,16 +81,16 @@ Bạn có thể bắt đầu tương tác với ứng dụng DApp tại đây.
 
 ------------------------------------------------------------------------
 
-## 3. Danh sách thư mục các bài Lab
+## 3. Danh sách thư mục các Challenge
 
-  Lab     Tên bài                       Tên thư mục
+  Challenge     Tên bài                       Tên thư mục
   ------- ----------------------------- -------------------------------------
-  Lab 1   Simple NFT                    `challenge-0-simple-nft`
-  Lab 2   Decentralized Staking         `challenge-1-decentralized-staking`
-  Lab 3   Token Vendor                  `challenge-2-token-vendor`
-  Lab 4   Dice Game                     `challenge-3-dice-game`
-  Lab 5   Over-collateralized Lending   `challenge-lending`
-  Lab 6   MyUSD Stablecoin              `challenge-stablecoins`
+  Challenge 1   Simple NFT                    `challenge-0-simple-nft`
+  Challenge 2   Decentralized Staking         `challenge-1-decentralized-staking`
+  Challenge 3   Token Vendor                  `challenge-2-token-vendor`
+  Challenge 4   Dice Game                     `challenge-3-dice-game`
+  Challenge 5   Over-collateralized Lending   `challenge-lending`
+  Challenge 6   MyUSD Stablecoin              `challenge-stablecoins`
 
 ------------------------------------------------------------------------
 
@@ -103,7 +103,3 @@ Bạn có thể bắt đầu tương tác với ứng dụng DApp tại đây.
     -   Chạy lại `yarn install`
 -   Mỗi Lab có thể có smart contract và logic riêng, nhưng **quy trình
     chạy là giống nhau**.
-
-------------------------------------------------------------------------
-
-Chúc bạn học tập và thực hành hiệu quả 🚀
